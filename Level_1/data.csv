@@ -1,0 +1,21 @@
+ID,Name,Age,Department,Salary,Hire Date,Performance Score
+101,Alice Johnson,28,Marketing,62000,2020-05-12,8.5
+102,Bob Smith,34,IT,75000,2018-11-20,7.2
+103,Charlie Davis,NaN,Finance,82000,2015-03-01,9.0
+104,Diana Prince,29,IT,71000,2021-07-15,NaN
+105,Edward Norton,45,HR,58000,2012-10-10,6.5
+102,Bob Smith,34,IT,75000,2018-11-20,7.2
+106,Fiona Gallagher,31,Marketing,NaN,2019-02-28,8.1
+107,George Miller,52,Sales,95000,2010-06-14,9.5
+108,Hannah Abbott,24,NaN,48000,2023-01-10,7.0
+109,Ian Wright,38,Finance,88000,2016-12-05,8.8
+110,Jane Foster,30,IT,72000,NaN,7.9
+111,Kevin Hart,42,Sales,105000,2014-04-22,9.2
+112,Laura Palmer,NaN,Marketing,60000,2020-08-30,6.8
+107,George Miller,52,Sales,95000,2010-06-14,9.5
+113,Michael Scott,40,Sales,500000,2005-09-15,4.0
+114,Nina Simone,27,HR,55000,2022-11-11,NaN
+115,Oscar Isaac,35,IT,78000,2017-03-18,8.3
+116,Peter Parker,22,NaN,42000,2023-06-01,9.7
+117,Quinn Fabray,26,Finance,67000,2021-12-12,7.5
+118,Riley Reid,33,Marketing,NaN,2019-05-05,6.2
